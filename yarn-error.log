@@ -1,0 +1,48 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\StefanKo\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add localtunnel
+
+PATH: 
+  C:\Users\StefanKo\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\StefanKo\bin;C:\Ruby31\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\dotnet;C:\Program Files\nodejs;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn;C:\Program Files\Microsoft SQL Server\150\Tools\Binn;C:\Program Files\Microsoft SQL Server\150\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn;C:\Program Files\Azure Data Studio\bin;C:\sqlite3;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Windows\System32;C:\Ruby31-x64\bin;C:\Users\StefanKo\AppData\Local\Microsoft\WindowsApps;C:\Users\StefanKo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\StefanKo\.dotnet\tools;C:\Users\StefanKo\AppData\Roaming\npm;C:\Users\StefanKo\Desktop\Stefan Koprivica 1264 Projekat iz Itp\Virtuelna Biblioteka Node.js;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.13.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'C:\Users\StefanKo\Desktop\Stefan Koprivica 1264 Projekat iz Itp\Virtuelna Biblioteka Node.js\node_modules\bcrypt\lib\binding\napi-v3\bcrypt_lib.node'
+
+npm manifest: 
+  {
+    "name": "biblioteka-node",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "nodemon app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "bcrypt": "^5.0.1",
+      "body-parser": "^1.19.0",
+      "cookie-parser": "^1.4.5",
+      "ejs": "^3.1.6",
+      "express": "^4.17.1",
+      "express-fileupload": "^1.2.1",
+      "jsonwebtoken": "^8.5.1",
+      "mysql": "^2.18.1",
+      "nodemon": "^2.0.19"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
