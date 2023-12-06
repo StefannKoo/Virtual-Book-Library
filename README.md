@@ -21,3 +21,4 @@ Users can search books quickly, view information about books, and ratings, read 
 - [Used By](#-used-by)
 - [License](#-license)
 ## App Features
+As a user, you can create new account from sign up page.
