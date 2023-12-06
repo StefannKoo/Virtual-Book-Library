@@ -24,7 +24,9 @@ Users can search books quickly, view information about books, and ratings, read 
 As a user, u can create a new account from the signup page or u can log in if u already have an account on the sign-up page. To create a new account you must enter your name, last name, date of birth, username, and password and choose your photo. 
 
 <img src="gifs/sign-up-record.gif" height="250px" width="600px" >
+
 If you don't enter all fields it will alert you to enter empty an field.
 <div align="center" width="600px"><img src="gifs/sign-up-invalid.gif" height="300px" ></div>
 If you are not logged in u can also search books by book name by typing it in the input field. The non-logged user only can read information and comments about books but can't add any new information.
+
 <img src="gifs/search-books-not-logged.gif" height="250px" width="600px" >
