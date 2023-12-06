@@ -25,8 +25,5 @@ As a user, u can create a new account from the signup page or u can log in if u 
 
 <img src="gifs/sign-up-record.gif" height="250px" width="600px" >
 If you don't enter all fields it will alert you to enter empty field.
-<img src="gifs/sign-up-invalid.gif" height="300px" text-align="center"  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;>
+<img src="gifs/sign-up-invalid.gif" height="300px" text-align="center" margin-left="150px">
 If you are not logged in u can also search books by book name by typing it in the input field.
