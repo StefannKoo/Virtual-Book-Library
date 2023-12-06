@@ -158,8 +158,8 @@ function dodajKomentar(k) {
                                             <div style="position: relative; height: 20px; margin-top: 10px; display: none;">
                                                 <button onmousedown="dodajReplyNaKomentar(this)"
                                                     style="position: absolute;  right: 0; bottom: 0;"
-                                                    class="bg-outline-primary">Dodaj
-                                                    Komentar</button>
+                                                    class="bg-outline-primary">Add
+                                                    Comment</button>
                                             </div>
                                         </div>                
                                     </div>
