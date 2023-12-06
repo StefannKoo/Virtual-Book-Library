@@ -21,7 +21,7 @@ Users can search books quickly, view information about books, and ratings, read 
 - [Used By](#-used-by)
 - [License](#-license)
 ## App Features
-As a user, u can create a new account from the signup page or u can log in if u already have an account on the sign-up page. To create a new account you must enter your name, last name, date of birth, username, and password and choose your photo. 
+As a user, u can create a new account from the signup page or u can log in if u already have an account on the sign-in page. To create a new account you must enter your name, last name, date of birth, username, and password and choose your photo. 
 
 <img src="gifs/sign-up-record.gif" height="250px" width="600px" >
 
