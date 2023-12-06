@@ -1,4 +1,4 @@
-![Virtual Book Library](gifs/book-nav.png)
+<img src="gifs/book-nav.png" style="width: 100px; height: 100px;">
 # Virtual Book Library
 
 ![representive-library (2)](https://github.com/StefannKoo/Virtual-Book-Library/assets/94062363/083f858f-30a5-454b-9408-a6bbab62e4a6)
