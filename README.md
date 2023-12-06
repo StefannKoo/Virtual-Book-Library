@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" color="blue">
   <img src="gifs/book-nav.png" alt="Markdownify" width="80" height="80">
   <br>
   Virtual Library
