@@ -1,7 +1,7 @@
 # rgb(9,105,18) Virtual Book Library
 <h1 align="center">
   <br>
-  <img src="gifs/book-nav.png" alt="Markdownify" width="200" height="300"><
+  <img src="gifs/book-nav.png" alt="Markdownify" width="200" height="150"><
   <br>
   Virtual Library
   <br>
