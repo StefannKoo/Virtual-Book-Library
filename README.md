@@ -1,4 +1,4 @@
-# Virtual Book Library
+<h1 style="text:center;>Virtual Book Library</h1>
 
 <img src="gifs/book-nav.png" style="width: 100px; height: 100px; align: center;">
 
