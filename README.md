@@ -1,9 +1,9 @@
 # rgb(9,105,18) Virtual Book Library
 <h1 align="center">
   <br>
-  <img src="gifs/book-nav.png" alt="Markdownify" width="200"><
+  <img src="gifs/book-nav.png" alt="Markdownify" width="200" height="300"><
   <br>
-  Markdownify
+  Virtual Library
   <br>
 </h1>
 ![representive-library (2)](https://github.com/StefannKoo/Virtual-Book-Library/assets/94062363/083f858f-30a5-454b-9408-a6bbab62e4a6)
