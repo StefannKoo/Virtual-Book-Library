@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="gifs/book-nav.png" alt="Markdownify" width="150" height="100">
+  <img src="gifs/book-nav.png" alt="Markdownify" width="150" height="130">
   <br>
   Virtual Library
   <br>
