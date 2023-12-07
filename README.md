@@ -39,3 +39,5 @@ Once the user is logged in, he can search books by author, name, or keyword. On 
 When the user searches for books, all books that match the search will be displayed. User can click on the button "Want to read" if he wants to read that book or "Read it" if he read the book. The option to delete a book is only available to administrators.
 
 <img src="gifs/check-read-want.gif" height="250px" width="600px" >
+
+When the user clicks on the book, the page that shows book information will appear.  There the user can see the book photo on the left side, and on the right side, the main information about the book will appear. The book rating is the average rating of all ratings. Above that, the user can rate the book by clicking on stars. Above that, the user can read comments from other users, write his comments, add replies to comments, and put likes/dislikes on comments.
