@@ -66,3 +66,7 @@ Option "Add administrator" where the administrator can see a list of all users a
 <img src="gifs/add-book.gif" height="250px" width="600px" >
 
 #### Lists of books
+
+There is the option "Lists of books" in the navigation bar. When the user clicks on that option the page about lists of books will appear. In that section, the user can see lists that he created on the left side of the page. Every list has photos of some books that were added to it, the name of the list, and number of books that that list contains.
+
+<img src="gifs/list-1.gif" height="250px" width="600px" >
