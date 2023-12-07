@@ -79,3 +79,7 @@ Also, users can create a new list by clicking on the option "Create new lists". 
 
 <img src="gifs/lists-3.gif" height="250px" width="600px" >
 
+When the new list is created, the alert will show that the list is created. There are options "Added books" where users can see all books that are added to the list, and "Add books to list" where users can search books and add books they want to the list.
+
+<img src="gifs/lists-4.gif" height="250px" width="600px" >
+
