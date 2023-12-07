@@ -14,6 +14,7 @@ Users can search books quickly, view information about books, and ratings, read 
   - [Sign up](#sign-up)
   - [Logged in](#logged-in)
     - [Search books](#search-books)
+    - [Profile options](#profile-options)
 - [Why TOAST UI Editor?](#-why-toast-ui-editor)
 - [Features](#-features)
 - [Examples](#-examples)
@@ -50,6 +51,7 @@ When the user clicks on the book, the page that shows book information will appe
 
 <img src="gifs/book-page1.gif" height="250px" width="600px" >
 
+#### Profile options
 In the right top corner user can open a drop-down menu where he can see the name of the logged user. There is an option "Profile" where the user can see his information and books that he added if he is an administrator.
 
 <img src="gifs/profile.gif" height="250px" width="600px" >
