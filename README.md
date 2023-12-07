@@ -11,7 +11,7 @@ Users can search books quickly, view information about books, and ratings, read 
 ## 🚩 Table of Contents
 
 - [App Features](#app-features)
-  - [Logged out](#sign-up)
+  - [Sign up](#sign-up)
   - [Logged in](#logged-in)  
 - [Why TOAST UI Editor?](#-why-toast-ui-editor)
 - [Features](#-features)
