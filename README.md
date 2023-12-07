@@ -71,6 +71,9 @@ There is the option "Lists of books" in the navigation bar. When the user clicks
 
 <img src="gifs/lists-1.gif" height="250px" width="600px" >
 
-At the right side of the page, there is an input field where users can search lists from other users that are marked as public. Also, users can create a new list.
+At the right side of the page, there is an input field where users can search lists from other users that are marked as public.
 
 <img src="gifs/lists-2.gif" height="250px" width="600px" >
+
+Also, users can create a new list by clicking on the option "Create new lists". When the user clicks on that option the form for creating a new list will show. There user must enter the name of the list and choose is list public or private. Other users can find public lists, but can't private. When a user clicks on "Create", a new list will be created.
+
