@@ -37,3 +37,5 @@ Once the user is logged in, he can search books by author, name, or keyword. On 
 <img src="gifs/read-want-read.gif" height="250px" width="600px" >
 
 When the user searches for books, all books that match the search will be displayed. User can click on the button "Want to read" if he wants to read that book or "Read it" if he read the book. The option to delete a book is only available to administrators.
+
+<img src="gifs/check-read-want.gif" height="250px" width="600px" >
