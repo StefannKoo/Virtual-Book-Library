@@ -83,3 +83,5 @@ When the new list is created, the alert will show that the list is created. Ther
 
 <img src="gifs/lists-4.gif" height="250px" width="600px" >
 
+
+When a user clicks on some list, via search or on their list, he can see all books that are on the list and he can put new books in the list also.
