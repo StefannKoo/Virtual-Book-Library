@@ -72,3 +72,5 @@ There is the option "Lists of books" in the navigation bar. When the user clicks
 <img src="gifs/lists-1.gif" height="250px" width="600px" >
 
 At the right side of the page, there is an input field where users can search lists from other users that are marked as public. Also, users can create a new list.
+
+<img src="gifs/lists-2.gif" height="250px" width="600px" >
