@@ -44,7 +44,6 @@ When the user clicks on the book, the page that shows book information will appe
 
 <img src="gifs/book-page1.gif" height="250px" width="600px" >
 
-In the right top corner user can open a drop-down menu where there are options to see the name of the logged user, option "Profile" where the user can see his information and books that he added if he is an administrator, option "Add administrator" where administrator can see list of all users and their privilegion and add administrator role to any user that are not admin. With the option "Add new book" the user can add new books to the system. With the option "Log out" the user can log out from the system. Options "Add administrator" and "Add new book" are available only for administrators.
 In the right top corner user can open a drop-down menu where there are options to see the name of the logged user, option "Profile" where the user can see his information and books that he added if he is an administrator.
 <img src="gifs/profile.gif" height="250px" width="600px" >
 Option "Add administrator" where administrator can see list of all users and their privilegion and add administrator role to any user that are not admin.
