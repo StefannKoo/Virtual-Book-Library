@@ -49,3 +49,5 @@ In the right top corner user can open a drop-down menu where there are options t
 <img src="gifs/profile.gif" height="250px" width="600px" >
 <br>
 <img src="gifs/add-admin1.gif" height="250px" width="600px" >
+<br>
+<img src="gifs/add-book.gif" height="250px" width="600px" >
