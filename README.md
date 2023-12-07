@@ -42,4 +42,4 @@ When the user searches for books, all books that match the search will be displa
 
 When the user clicks on the book, the page that shows book information will appear.  There the user can see the book photo on the left side, and on the right side, the main information about the book will appear. The book rating is the average rating of all ratings. Above that, the user can rate the book by clicking on stars. Above that, the user can read comments from other users, write his comments, add replies to comments, and put likes/dislikes on comments.
 
-<img src="gifs/book-page.gif" height="250px" width="600px" >
+<img src="gifs/book-page1.gif" height="250px" width="600px" >
