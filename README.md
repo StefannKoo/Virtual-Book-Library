@@ -77,3 +77,5 @@ At the right side of the page, there is an input field where users can search li
 
 Also, users can create a new list by clicking on the option "Create new lists". When the user clicks on that option the form for creating a new list will show. There user must enter the name of the list and choose is list public or private. Other users can find public lists, but can't private. When a user clicks on "Create", a new list will be created.
 
+<img src="gifs/lists-3.gif" height="250px" width="600px" >
+
