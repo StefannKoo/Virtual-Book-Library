@@ -15,6 +15,7 @@ Users can search books quickly, view information about books, and ratings, read 
   - [Logged in](#logged-in)
     - [Search books](#search-books)
     - [Profile options](#profile-options)
+    - [Lists of books](#lists-of-books)
 - [Why TOAST UI Editor?](#-why-toast-ui-editor)
 - [Features](#-features)
 - [Examples](#-examples)
@@ -63,3 +64,5 @@ Option "Add administrator" where the administrator can see a list of all users a
  With the option "Add new book" the user can add new books to the system. With the option "Log out" the user can log out from the system. Options "Add administrator" and "Add new book" are available only for administrators.
  
 <img src="gifs/add-book.gif" height="250px" width="600px" >
+
+#### Lists of books
