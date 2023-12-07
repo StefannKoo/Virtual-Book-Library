@@ -33,3 +33,5 @@ If you are not logged in u can also search books by book name by typing it in th
 <img src="gifs/search-books-not-logged.gif" height="250px" width="600px" >
 
 Once the user is logged in, he can search books by author, name, or keyword. On the left side of the page, the user can see lists of books that he has read and lists of books that he wants to read.
+
+<img src="gifs/read-want-read.gif" height="250px" width="600px" >
