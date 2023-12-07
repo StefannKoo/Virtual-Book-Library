@@ -34,6 +34,7 @@ If you don't enter all fields it will alert you to enter empty an field.
 If you are not logged in u can also search books by book name by typing it in the input field. The non-logged user only can read information and comments about books but can't add any new information.
 
 <img src="gifs/search-books-not-logged.gif" height="250px" width="600px" >
+
 ### Logged in
 Once the user is logged in, he can search books by author, name, or keyword. On the left side of the page, the user can see lists of books that he has read and lists of books that he wants to read.
 
