@@ -25,7 +25,7 @@ Users can search books quickly, view information about books, and ratings, read 
 - [TOAST UI Family](#-toast-ui-family)
 - [Used By](#-used-by)
 - [License](#-license)
-## App Features
+##  📝 App Features
 ### Sign up
 As a user, u can create a new account from the signup page or u can log in if u already have an account on the sign-in page. To create a new account you must enter your name, last name, date of birth, username, and password and choose your photo. 
 
